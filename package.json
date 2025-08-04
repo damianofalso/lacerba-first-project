@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "damianofalso",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damianofalso/lacerba-first-project"}
 }
